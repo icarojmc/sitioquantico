@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+.destaque-principal {
+	text-align: justify;
+	text-align-last: center;
+}
+
+.imagem-principal {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url("../images/business-meeting-5395567_1920.jpg");
+	background-size: cover;
+	height: 600px;
+}
+
+.imagem-secundaria {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url("../images/business-1219868_1920.jpg");
+	background-size: cover;
+	height: 700px;
+}
+
+.imagem-tercearia {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url("../images/goias-velho-717957_1920.jpg");
+	background-size: cover;
+	height: 700px;
+}
+
+.imagem-quaternaria {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url("../images/goias-velho-717957_1920.jpg");
+	background-size: cover;
+	height: 500px;
+}
+
+.separador {
+	height: 400px
+}
+
+.separador-pos-imagem {
+	height: 130px
+}
+
+.separador-pre-imagem {
+	height: 150px
+}
+
+.separador-entre-paragrafos {
+	height: 90px
+}
+
+.separador-final {
+	height: 100px
+}
+
+.background-informacoes {
+	background-color: #0b0840;
+}
+
+.button-bgr {
+	background-color: #0b0840;
+}
+
+.tipo-destaque{
+	color: #12b891
+}
